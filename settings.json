@@ -32,6 +32,7 @@
   "editor.parameterHints.enabled": false,
   "editor.renderLineHighlight": "gutter",
   "cSpell.language": "en,pt",
+  "window.zoomLevel": 1,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.suggestSelection": "first",
   "explorer.confirmDelete": false,
@@ -121,7 +122,6 @@
   "console-ninja.featureSet": "Community",
   "workbench.editor.empty.hint": "hidden",
   "update.showReleaseNotes": false,
-  "security.promptForLocalFileProtocolHandling": false,
   "apc.activityBar": {
     "position": "bottom",
     "hideSettings": true,
@@ -229,8 +229,6 @@
     "Usuario",
     "WEBPUSH"
   ],
-  "workbench.colorTheme": "Min Dark",
-  "workbench.statusBar.visible": false,
   "terminal.integrated.env.windows": {},
   "workbench.layoutControl.enabled": false,
   "editor.formatOnSave": true,
@@ -243,4 +241,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "prettier.semi": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 }
