@@ -241,7 +241,6 @@
   "prettier.trailingComma": "none",
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
   },
   "prettier.semi": false,
 }
